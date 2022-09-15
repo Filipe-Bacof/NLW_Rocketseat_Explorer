@@ -95,6 +95,10 @@ ul {
     gap: 16px;
 }
 
+a img {
+    width: 50px;
+}
+
 .games-list img {
     width: 90px;
     border-radius: 8px;
